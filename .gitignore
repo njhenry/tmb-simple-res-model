@@ -39,6 +39,6 @@ vignettes/*.pdf
 .Renviron
 
 # Compiled C++ files
-.o
-.so
-.dll
+*.o
+*.so
+*.dll
